@@ -122,6 +122,4 @@ The Multiple Linear Regression model successfully predicts bike demand and ident
 ## 📬 **Contact** 
 Created by **[@VinitJRane]** – feel free to reach out for queries or collaborations.
 
----
 
-**🚀 Let's move Towards AI Data-Driven Success!**
