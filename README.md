@@ -1,4 +1,4 @@
-# 🚴‍♀️ **Bike Sharing Demand Prediction**
+# 🚴‍♀️ **Bike Sharing Demand Prediction** 🚴‍♀️ 
 
 > A data-driven project to predict bike-sharing demand using **Multiple Linear Regression**.
 
